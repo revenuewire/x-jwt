@@ -1,5 +1,5 @@
 {
-  "name": "cosmostail/x-jwt",
+  "name": "revenuewire/x-jwt",
   "type": "library",
   "description": "Inspired by JWT protocol, X-JWT is designed to use AWS KMS to securly encrypt and decrypt data.",
   "homepage": "https://github.com/cosmostail/x-jwt",
@@ -7,7 +7,7 @@
   "authors": [
     {
       "name": "Scott Wang",
-      "email": "scott@malloc.sh"
+      "email": "scott@revenuewire.com"
     }
   ],
   "autoload": {
